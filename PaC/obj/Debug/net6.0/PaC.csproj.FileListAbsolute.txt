@@ -1,0 +1,15 @@
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\bin\Debug\net6.0\PaC.exe
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\bin\Debug\net6.0\PaC.deps.json
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\bin\Debug\net6.0\PaC.runtimeconfig.json
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\bin\Debug\net6.0\PaC.dll
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\bin\Debug\net6.0\ref\PaC.dll
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\bin\Debug\net6.0\PaC.pdb
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\PaC.csproj.AssemblyReference.cache
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\PaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\PaC.AssemblyInfoInputs.cache
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\PaC.AssemblyInfo.cs
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\PaC.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\PaC.dll
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\ref\PaC.dll
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\PaC.pdb
+C:\Users\User\Documents\1- Estudos\Testes\PAC\PaC\obj\Debug\net6.0\PaC.genruntimeconfig.cache
